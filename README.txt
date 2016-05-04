@@ -3,8 +3,10 @@ html5up.net | @n33co
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-It's done! Parallelism was an idea I mocked up a few months ago but, due to other
-committments, didn't get around to putting to code until recently. Different to
+It's done! 
+Parallelism was an idea I mocked up a few months ago but, due to other
+committments, didn't get around to putting to code until recently. 
+Different to
 my more general-purpose freebies, this one's specifically built for portfolio use
 but still delivers quite a bit of customizability (via CSS and a number of settings).
 For more on how it works and how to make the most of it, jump on down to the
@@ -29,7 +31,8 @@ Instructions:
 
 	Overview:
 
-		- Item: A generic container of stuff. Said stuff can be a thumbnail, the actual
+		
+- Item: A generic container of stuff. Said stuff can be a thumbnail, the actual
 		  page header, or whatever else you deem item worthy. Items can vary in width but
 		  are all the same height (230px by default, but you can change this with a setting).
 
@@ -94,10 +97,13 @@ Instructions:
 		- Scrolling is handled in 3 ways:
 
 			1. Scrolling up/down using the mouse wheel (down = scroll right, up = scroll left)
-			2. Using the left/right arrow keys ("Scroll Keys")
-			3. Moving the mouse cursor to the far left or far right of the screen ("Scroll Zones")
+			
+2. Using the left/right arrow keys ("Scroll Keys")
+			
+3. Moving the mouse cursor to the far left or far right of the screen ("Scroll Zones")
 
-			Methods #2 and #3 can be disabled and customized using settings (below). Method #1
+			
+Methods #2 and #3 can be disabled and customized using settings (below). Method #1
 			is always enabled.
 
 		- If you don't have enough items to require scrolling, the reel will just be centered on
